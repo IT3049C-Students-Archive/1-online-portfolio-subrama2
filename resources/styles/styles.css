@@ -1,5 +1,6 @@
 body{
   background-color: lightblue;
+  text-align: center;
 }
 p.section{
   color: blue;
@@ -14,26 +15,28 @@ p.section{
 }
 ul{
   list-style-type: square;
+  text-align: center;
 
 }
 ol{
   list-style-type: upper-roman;
+  text-align: center;
 }
 #experience{
-  color: brown;
+  color: purple;
+  text-align: center;
 }
-#programmingLanguages, #achievements
+#programmingLanguages, #achievements, #games
 {
-  color:cornsilk;
+  color: purple;
+  text-align: center;
 }
 h2
 {
-  color: green;
-    padding-left: 1em;
-    padding-right: 1em; 
+  color:green;
+    text-align: center;
 }
 h1{
-  color: red;
-    padding-left: 1em;
-    padding-right: 1em; 
+  color:green;
+  text-align: center; 
 }
