@@ -1,0 +1,39 @@
+body{
+  background-color: lightblue;
+}
+p.section{
+  color: blue;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  font-size: 1em;
+  font-family: cursive;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+ul{
+  list-style-type: square;
+
+}
+ol{
+  list-style-type: upper-roman;
+}
+#experience{
+  color: brown;
+}
+#programmingLanguages, #achievements
+{
+  color:cornsilk;
+}
+h2
+{
+  color: green;
+    padding-left: 1em;
+    padding-right: 1em; 
+}
+h1{
+  color: red;
+    padding-left: 1em;
+    padding-right: 1em; 
+}
