@@ -15,12 +15,12 @@ p.section{
 }
 ul{
   list-style-type: square;
-  text-align: center;
+  
 
 }
 ol{
   list-style-type: upper-roman;
-  text-align: center;
+  
 }
 #experience{
   color: purple;
